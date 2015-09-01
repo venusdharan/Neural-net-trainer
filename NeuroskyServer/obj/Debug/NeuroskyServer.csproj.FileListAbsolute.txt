@@ -1,0 +1,10 @@
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\NeuroskyServer\bin\Debug\thinkgear.dll
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\NeuroskyServer\bin\Debug\NeuroskyServer.exe
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\NeuroskyServer\bin\Debug\NeuroskyServer.pdb
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\NeuroskyServer\bin\Debug\ThinkGearNET.dll
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\NeuroskyServer\obj\Debug\NeuroskyServer.Form1.resources
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\NeuroskyServer\obj\Debug\NeuroskyServer.Properties.Resources.resources
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\NeuroskyServer\obj\Debug\NeuroskyServer.csproj.GenerateResource.Cache
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\NeuroskyServer\obj\Debug\NeuroskyServer.exe
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\NeuroskyServer\obj\Debug\NeuroskyServer.pdb
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\NeuroskyServer\obj\Debug\NeuroskyServer.csprojResolveAssemblyReference.cache

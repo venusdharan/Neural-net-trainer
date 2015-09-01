@@ -1,0 +1,7 @@
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\ThreadApp\bin\Debug\ThreadApp.exe
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\ThreadApp\bin\Debug\ThreadApp.pdb
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\ThreadApp\obj\Debug\ThreadApp.Form1.resources
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\ThreadApp\obj\Debug\ThreadApp.Properties.Resources.resources
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\ThreadApp\obj\Debug\ThreadApp.csproj.GenerateResource.Cache
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\ThreadApp\obj\Debug\ThreadApp.exe
+C:\Users\VSD\Documents\Visual Studio 2013\Projects\NeuralNetTrainer\ThreadApp\obj\Debug\ThreadApp.pdb

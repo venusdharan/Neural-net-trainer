@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  
+  <error>
+    <meta>
+      <date></date>
+      <username></username>
+    </meta>
+    <data>
+      <backpropagation></backpropagation>
+      <resilientbackpropagation></resilientbackpropagation>
+      <binarysplit></binarysplit>
+      <bootstrap></bootstrap>
+      <crossvalidation></crossvalidation>
+      <evelutionarylearning></evelutionarylearning>
+      <kernalsvm></kernalsvm>
+      <svm></svm>
+      <kmeans></kmeans>
+      <knn></knn>
+      <meanshift></meanshift>
+      <minimummeandistance></minimummeandistance>
+      <restrictedboltzmanmachine></restrictedboltzmanmachine>
+    </data>
+  </error>
